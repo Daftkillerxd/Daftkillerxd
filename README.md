@@ -1,6 +1,6 @@
 <div align="center">
 
-# Brandon Viru
+# Hi 👋, I'm Brandon Viru
 
 ### Data Engineer | Azure Databricks | Python | PySpark | SQL
 
