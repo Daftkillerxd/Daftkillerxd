@@ -1,14 +1,14 @@
 <div align="center">
 
-# 👋 Hi, I'm Brandon Viru
+# Brandon Viru
 
 ### Data Engineer | Azure Databricks | Python | PySpark | SQL
 
-Building reliable, scalable and analytics-ready data solutions.
+**Building scalable data pipelines, reliable Lakehouse solutions and analytics-ready data products.**
 
 <br>
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Brandon_Viru-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/brandon-viru/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Brandon%20Viru-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/brandon-viru/)
 [![GitHub](https://img.shields.io/badge/GitHub-Daftkillerxd-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Daftkillerxd)
 
 </div>
@@ -17,79 +17,105 @@ Building reliable, scalable and analytics-ready data solutions.
 
 ## 👨‍💻 About Me
 
-I'm a **Data Engineer** focused on designing, developing and optimizing
-data pipelines in **Azure and Databricks environments**.
+I'm a **Data Engineer** focused on designing, developing and optimizing reliable data solutions in **Azure and Databricks environments**.
 
-I work with **Python, PySpark and SQL** to transform raw data into
-reliable, traceable and analytics-ready datasets.
+I work mainly with **Python, PySpark and SQL**, building ETL/ELT pipelines, automating data processes and transforming raw information into reliable datasets for analytics and business decision-making.
 
-My experience includes:
+### 🎯 Core Expertise
 
-- ⚙️ Development and optimization of **ETL/ELT pipelines**
-- 🔄 Data processing and automation with **Databricks Workflows**
-- 🏗️ **Data Warehouse & Lakehouse** environments
-- 🥉🥈🥇 **Medallion Architecture — Bronze, Silver & Gold**
-- ✅ Data Quality, validation and reconciliation processes
-- 🔎 Data Lineage and Metadata Management
-- 📊 Analytical data models for **Power BI**
-- ☁️ Data solutions on **Microsoft Azure**
+- ⚙️ **ETL / ELT Pipelines**
+- 🏗️ **Lakehouse & Medallion Architecture**
+- 🔄 **Data Orchestration & Automation**
+- ✅ **Data Quality & Reconciliation**
+- 🔎 **Data Lineage & Metadata Management**
+- ☁️ **Azure Data Engineering**
+- 📊 **Analytics-ready Data Models**
 
 ---
 
-## 🛠️ Tech Stack
+# 🛠️ Tech Stack
 
-### 💻 Languages
+<div align="center">
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
-
-### ⚙️ Data Engineering
+### 🔥 Core Data Engineering
 
 ![Databricks](https://img.shields.io/badge/Databricks-FF3621?style=for-the-badge&logo=databricks&logoColor=white)
-![Apache Spark](https://img.shields.io/badge/Apache_Spark-E25A1C?style=for-the-badge&logo=apachespark&logoColor=white)
-![Apache Airflow](https://img.shields.io/badge/Apache_Airflow-017CEE?style=for-the-badge&logo=apacheairflow&logoColor=white)
-![dbt](https://img.shields.io/badge/dbt-FF694B?style=for-the-badge&logo=dbt&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Apache Spark](https://img.shields.io/badge/Apache%20Spark-E25A1C?style=for-the-badge&logo=apachespark&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
+![Azure](https://img.shields.io/badge/Microsoft%20Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white)
 
-`PySpark` • `Delta Lake` • `Azure Data Factory` • `Apache NiFi`
+<br>
+
+**PySpark • Delta Lake • Azure Data Factory • Databricks Workflows • ETL/ELT**
+
+</div>
+
+<br>
+
+### ⚙️ Data Engineering & Orchestration
+
+| Area | Technologies |
+|---|---|
+| **Processing** | Databricks · Apache Spark · PySpark |
+| **ETL / ELT** | Azure Data Factory · Databricks Workflows |
+| **Orchestration** | Apache Airflow · Apache NiFi |
+| **Transformation** | dbt · SQL · Python |
+| **Storage / Lakehouse** | Delta Lake · Data Lake · Lakehouse |
+| **Architecture** | Bronze · Silver · Gold |
+
+---
+
+### ✅ Data Quality & Governance
+
+`Data Quality` • `Data Validation` • `Data Reconciliation` • `Data Lineage` • `Metadata Management` • `Collibra`
+
+---
 
 ### ☁️ Cloud & DevOps
 
-![Microsoft Azure](https://img.shields.io/badge/Microsoft_Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![Azure DevOps](https://img.shields.io/badge/Azure_DevOps-0078D7?style=for-the-badge&logo=azuredevops&logoColor=white)
+<div align="left">
 
-### 📊 Analytics & Governance
+![Azure](https://img.shields.io/badge/Microsoft%20Azure-0078D4?style=flat-square&logo=microsoftazure&logoColor=white)
+![Azure DevOps](https://img.shields.io/badge/Azure%20DevOps-0078D7?style=flat-square&logo=azuredevops&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
 
-![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
-
-`Collibra` • `Data Quality` • `Data Lineage` • `Metadata Management`
+</div>
 
 ---
 
-## 🚀 Featured Project
+## 🚀 Featured Data Engineering Project
 
-### 💳 Fraud Detection — Data Engineering & Machine Learning
+### 💳 Fraud Detection — End-to-End Data Pipeline
 
-End-to-end data engineering project designed to process financial
-transaction data and prepare reliable datasets for fraud detection.
+End-to-end Data Engineering solution designed to process financial transactions using **Databricks and Medallion Architecture**, generating reliable datasets for analytics and fraud detection.
 
 ### 🏗️ Architecture
 
 ```text
-Raw Data
-   │
-   ▼
-🥉 Bronze
-   │
-   ▼
-🥈 Silver
-   │
-   ▼
-🥇 Gold
-   │
-   ▼
-Feature Engineering
-   │
-   ▼
-Machine Learning
+           DATA SOURCES
+                │
+                ▼
+        ┌───────────────┐
+        │  🥉 BRONZE    │
+        │   Raw Data    │
+        └───────┬───────┘
+                │
+                ▼
+        ┌───────────────┐
+        │  🥈 SILVER    │
+        │ Clean + Valid │
+        └───────┬───────┘
+                │
+                ▼
+        ┌───────────────┐
+        │   🥇 GOLD     │
+        │ Business Data │
+        └───────┬───────┘
+                │
+                ▼
+       FEATURE ENGINEERING
+                │
+                ▼
+       FRAUD DETECTION MODEL
